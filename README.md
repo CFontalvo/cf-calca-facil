@@ -58,10 +58,11 @@ Consulta la [política de privacidad](PRIVACY.md) para conocer cómo se tratan l
 
 - Versión: `0.2.2+4`.
 - Estado: beta para Android.
+- Compatibilidad: Android 7.0 o posterior.
 - Identificador: `com.christianfontalvo.cfcalcafacil`.
-- APK público: pendiente de una compilación firmada para distribución.
+- APK público: [descargar CF Calca Fácil v0.2.2 beta](https://github.com/CFontalvo/cf-calca-facil/releases/tag/v0.2.2-beta.1).
 
-Los APK locales de prueba no se guardan en Git. Cuando exista una versión preparada para descarga pública se publicará en la sección **Releases** del repositorio.
+El APK se ofrece gratis desde GitHub Releases y no requiere Google Play. Está firmado con un certificado local de desarrollo y se publica como beta, no como una versión de tienda. Consulta las [instrucciones de instalación](docs/INSTALACION.md) antes de descargarlo.
 
 ## Desarrollo
 

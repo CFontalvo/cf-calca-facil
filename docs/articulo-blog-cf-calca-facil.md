@@ -144,6 +144,18 @@
 <p>El código fuente, la documentación técnica, la política de privacidad y el historial de cambios están disponibles en el <a href="https://github.com/CFontalvo/cf-calca-facil" target="_blank" rel="noreferrer noopener">repositorio de CF Calca Fácil en GitHub</a>.</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Descargar CF Calca Fácil gratis</h2>
+<!-- /wp:heading -->
+
 <!-- wp:paragraph -->
-<p>La aplicación se encuentra actualmente en fase de prueba para Android. Cuando termine la revisión final, la descarga gratuita estará disponible desde este blog y desde la sección de versiones del repositorio. También puedes ver mis dibujos en <a href="https://www.instagram.com/christianfontalvosketch/" target="_blank" rel="noreferrer noopener">Instagram: @christianfontalvosketch</a>.</p>
+<p>Puedes <a href="https://github.com/CFontalvo/cf-calca-facil/releases/tag/v0.2.2-beta.1" target="_blank" rel="noreferrer noopener"><strong>descargar gratis el APK de CF Calca Fácil desde GitHub Releases</strong></a>. No necesitas pagar ni tener una cuenta de GitHub. Como la aplicación no se instala desde Google Play, Android solicitará autorización para instalar aplicaciones desconocidas desde el navegador o el administrador de archivos.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Esta descarga corresponde a una versión beta firmada con un certificado local de desarrollo. Antes de instalar una actualización futura será importante conservar la misma firma; si Android no permite actualizar, puede ser necesario desinstalar la beta anterior.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La aplicación se encuentra actualmente en fase de prueba para Android y seguiré mejorándola con los resultados de las pruebas. También puedes ver mis dibujos en <a href="https://www.instagram.com/christianfontalvosketch/" target="_blank" rel="noreferrer noopener">Instagram: @christianfontalvosketch</a>.</p>
 <!-- /wp:paragraph -->

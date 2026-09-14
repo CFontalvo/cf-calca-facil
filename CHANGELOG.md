@@ -1,10 +1,11 @@
 # Historial de cambios
 
-## 0.2.2+4 - 2026-09-12
+## 0.2.2+4 - 2026-09-14
 
 - Corrige el encuadre vertical para evitar el recorte que parecía un zoom excesivo.
 - Fuerza el nivel mínimo de zoom disponible en la cámara trasera.
 - Mantiene la vista de cámara a pantalla completa en vertical y horizontal.
+- Publica el primer APK beta descargable desde GitHub Releases.
 
 ## 0.2.1+3 - 2026-09-11
 
